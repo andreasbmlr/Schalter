@@ -1,0 +1,1 @@
+Eine kleine implementierung von AND-, OR-, NOT-, XOR-Gates und eines Halbaddierers.
